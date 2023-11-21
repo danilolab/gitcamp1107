@@ -10,7 +10,7 @@ import { VisorComponent } from './components/calculadora/visor/visor.component';
   declarations: [
     AppComponent,
     CalculadoraComponent,
-    VisorComponent
+    VisorComponent,
   ],
   imports: [
     BrowserModule,
